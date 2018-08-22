@@ -1,0 +1,20 @@
+---
+title: Contact
+icon: fa-envelope
+order: 5
+---
+
+<p>If you have any questions or comments for me, please do not hesitate to email me using the form below! I will read them and give you a reply as soon as I can. Alternatively, you may contact me through any of the social media links located at the bottom of the nav bar!</p>
+
+<form method="post" action="https://formspree.io/{{ site.email }}">
+  <div class="row">
+    <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
+    <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
+    <div class="12u$">
+      <textarea name="message" placeholder="Message"></textarea>
+    </div>
+    <div class="12u$">
+      <input type="submit" value="Send Message" />
+    </div>
+  </div>
+</form>
