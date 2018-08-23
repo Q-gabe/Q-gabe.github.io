@@ -42,7 +42,7 @@ avatar: assets/images/icon192x144.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Q-gabe.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url: https://www.facebook.com/pastboundgabe
