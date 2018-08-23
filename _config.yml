@@ -58,5 +58,5 @@ twitter_url: https://twitter.com/pastbound_gabe
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-remote_theme: chrisbobbe/jekyll-theme-prologue
+remote_theme: Q-gabe/jekyll-theme-prologue
 collections: [sections]
