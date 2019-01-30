@@ -48,13 +48,13 @@ facebook_url: https://www.facebook.com/pastboundgabe
 github_url: https://github.com/Q-gabe
 googleplus_url:
 instagram_url: https://www.instagram.com/gggggggabriel/
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/q-gabe/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/pastbound_gabe
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-133429254-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: Q-gabe/jekyll-theme-prologue
