@@ -16,8 +16,12 @@ order: 3
         <header>
           <h2>Drop The Beat</h2>
           <div class="projectLinks">
-          	<a href="https://github.com/Q-gabe/DropTheBeat" target="_blank" class="icon-b fa-github">Github Repo</a>
-          	<a href="https://devpost.com/software/drop-the-beat-cny5o8" target="_blank" class="icon fa-external-link-alt">Devpost Page</a>
+	          <span class="outlink">
+	          	<a href="https://github.com/Q-gabe/DropTheBeat" target="_blank" class="icon fa-github">Github Repo</a>
+	          </span>
+	          <span class="outlink">
+	          	<a href="https://devpost.com/software/drop-the-beat-cny5o8" target="_blank" class="icon fa-external-link">Devpost Page</a>
+	          </span>
           </div>
           <p>Drop The Beat is a Flutter iOS/Android application made for sharing songs via geolocation tagging using Spotify and Google Maps API. The app was put together in 24 hours for Hack'n'Roll 2020.</p>
         </header>
@@ -28,14 +32,16 @@ order: 3
         <a href="https://github.com/Q-gabe/VISIT" target="_blank" class="image fit"><img src="{{ 'assets/images/projects/visit_banner_500x250.png' | relative_url }}" alt="VISIT" /></a>
         <header>
           <h2>VISIT</h2>
-            <div class="projectLinks">
-          	<a href="https://github.com/Q-gabe/VISIT" target="_blank" class="icon-b fa-github">Github Repo</a>
-          	<a href="https://ay1920s1-cs2103t-f12-2.github.io/main/" target="_blank" class="icon fa-external-link-alt">Product Page</a>
-          	<p>VISIT is a Patient Management System made in Java for a Software Engineering module in NUS. The system was made as an alternative to expensive commercial systems for low capital clinics and house doctors.</p>
-          </div>
-          <p></p>
+          <div class="projectLinks">
+            <span class="outlink">
+			      	<a href="https://github.com/Q-gabe/VISIT" target="_blank" class="icon fa-github">Github Repo</a>
+			      </span>
+			      <span class="outlink">
+			        <a href="https://ay1920s1-cs2103t-f12-2.github.io/main/" target="_blank" class="icon fa-external-link">Product Page</a>
+			      </span>
+         	</div>
+         	<p>VISIT is a Patient Management System made in Java for a Software Engineering module in NUS. The system was made as an alternative to expensive commercial systems for low capital clinics and house doctors.</p>
         </header>
       </div>
     </div>
  </div>
- 
