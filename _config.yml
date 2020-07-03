@@ -33,8 +33,7 @@
 title: Gabriel Ong
 subtitle: NUS Computer Science Undergraduate
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science undergraduate at NUS. Programmer and musician. This blog is intended for to keep track of my projects and 
-  post about my interests and other stuff. Follow my blog at q-gabe.me!
+  Computer Science undergraduate at NUS. Programmer and musician. This portfolio site is intended to showcase some of my projects and detail my experiences.
 author: Gabriel Ong
 email: gabriel.ong@u.nus.edu
 avatar: assets/images/icon192x144.jpg
@@ -51,7 +50,7 @@ instagram_url: https://www.instagram.com/gggggggabriel/
 linkedin_url: https://www.linkedin.com/in/q-gabe/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/pastbound_gabe
+twitter_url: https://twitter.com/q__gabe
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-133429254-1
