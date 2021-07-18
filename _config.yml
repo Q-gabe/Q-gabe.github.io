@@ -31,9 +31,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gabriel Ong
-subtitle: NUS Computer Science Undergraduate
+subtitle: Software Engineer based in Singapore
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science undergraduate at NUS. Programmer and musician. This portfolio site is intended to showcase some of my projects and detail my experiences.
+  Software Engineer based in Singapore. Programmer and musician. This showcases some of my past projects and detail my experiences.
 author: Gabriel Ong
 email: gabriel.ong@u.nus.edu
 avatar: assets/images/icon192x144.jpg
